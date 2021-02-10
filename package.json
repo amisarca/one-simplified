@@ -1,0 +1,21 @@
+{
+    "name": "one-andrei",
+    "displayName": "one-andrei",
+    "description": "One theme adapted",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Andrei",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Andrei-color-theme.json"
+            }
+        ]
+    }
+}
