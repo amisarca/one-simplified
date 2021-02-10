@@ -1,10 +1,10 @@
 {
-    "name": "one-andrei",
-    "displayName": "one-andrei",
-    "description": "One theme adapted",
+    "name": "one-simplified",
+    "displayName": "One Simplified",
+    "description": "A simplified version of the Atom One Dark theme.",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Andrei",
+                "label": "One Simplified",
                 "uiTheme": "vs-dark",
                 "path": "./themes/One Andrei-color-theme.json"
             }
