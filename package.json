@@ -3,6 +3,7 @@
     "displayName": "One Simplified",
     "description": "A simplified version of the Atom One Dark theme.",
     "version": "0.0.1",
+    "publisher": "andxm",
     "engines": {
         "vscode": "^1.51.0"
     },
