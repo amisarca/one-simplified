@@ -18,5 +18,8 @@
                 "path": "./themes/One Andrei-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/amisarca/one-simplified"
     }
 }
