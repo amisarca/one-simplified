@@ -26,7 +26,11 @@
 				"storage.type",
 				"storage.modifier",
 				"variable.language.this",
-				"constant.language"
+				"constant.language",
+				"punctuation.separator.period.java",
+				"punctuation.separator.pointer-access",
+				"punctuation.separator.dot-access",
+				"punctuation.accessor.js",
 			],
 			"settings": {
 				"foreground": "#C679DD"
@@ -45,7 +49,8 @@
 				"punctuation.bracket.angle",
 				"variable.parameter.java",
 				"variable.other.object.java",
-				"constant.other.key.java"
+				"constant.other.key.java",
+				"keyword.control.ternary.java",
 			],
 			"settings": {
 				"foreground": "#A9B7C6"
@@ -56,7 +61,6 @@
 				"variable.other.definition.java",
 				"variable.other.object.property",
 				"variable.other.property",
-				"variable.other.object",
 				"entity.name.function.call.initializer.cpp",
 			],
 			"settings": {
@@ -67,6 +71,7 @@
 			"scope": [
 				"meta.enum",
 				"variable.other.constant",
+				"constant.other.proto"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -112,7 +117,7 @@
 		},{
 			"name": "Number",
 			"scope": [
-				"constant.numeric.decimal",
+				"constant.numeric",
 			],
 			"settings": {
 				"foreground": "#D2945D"
